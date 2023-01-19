@@ -69,7 +69,7 @@ plot(dat$Y,dat$X,ylab="Produksi",xlab="Produktivitas")
 
 ### Metode analisis
 
-Teknik analisis yang digunakan dalam penelitian ini adalah teknik kuantitatif dan penjabaran deskriptif. Teknik analisis kuantitatif yang dilakukan dalam penelitian ini dengan melakukan regresi menggunakan metode yang dipilih adalah Ordinary Least Square (OLS) dengan 2 variabel independen. Penelitian ini bertujuan untuk mengetahui produksi, produktivitas, serta luas areal pada komoditi kakao di Indonesia dari tahun ke tahun. Rumus yang digunakan untuk regresi, sebagai berikut:
+Teknik analisis yang digunakan dalam penelitian ini adalah teknik kuantitatif dan penjabaran deskriptif. Teknik analisis kuantitatif yang dilakukan dalam penelitian ini dengan melakukan regresi menggunakan metode yang dipilih adalah Ordinary Least Square (OLS) dengan 1 variabel independen. Penelitian ini bertujuan untuk mengetahui produksi, produktivitas, serta luas areal pada komoditi kakao di Indonesia dari tahun ke tahun. Rumus yang digunakan untuk regresi, sebagai berikut:
 
 Y= β~0~ + 𝛽~1~X+ μ
 
